@@ -8,7 +8,7 @@ Pygame
 
 Installing:
 Clone the git repo
-https://github.com/russs123/Platformer.git
+
 Open project folder
 
 Explore
